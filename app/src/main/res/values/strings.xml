@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ATownMap</string>
+    <string name="mark">Mark Area</string>
+    <string name="explore">Explore Area</string>
+    <string name="desc">Title Banner</string>
+    <string name="instr">View on Map</string>
+
+    <string name="localtxt">Type location here</string>
+    <string name="searchtxt">Search</string>
+    <string name="accessToken">pk.eyJ1IjoiamFzb25oaW5kczEzIiwiYSI6ImNpcGo0MGZvbjAxdmh0bG1kbzhwZmRhMjEifQ.XchRae2GrCENtmgK_7dgJw</string>
+</resources>
